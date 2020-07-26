@@ -1,0 +1,3 @@
+https://stackoverflow.com/questions/55349307/how-to-tune-tesseract-for-identifying-number-plate-of-a-car-more-accurately/55350303#55350303
+
+Tesseract: C:\Program Files (x86)\Tesseract-OCR\tesseract.exe
